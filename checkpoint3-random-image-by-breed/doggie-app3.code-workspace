@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Git\\doggie"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "checkpoint3-random-image-by-breed"
+	}
+}
